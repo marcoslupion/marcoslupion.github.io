@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Final Degree Project | Marcos Lupión</title>
+    <link>https://marcoslupion.github.io/tag/final-degree-project/</link>
+      <atom:link href="https://marcoslupion.github.io/tag/final-degree-project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Final Degree Project</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Marcos Lupión Lorente</copyright><lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marcoslupion.github.io/media/icon_huddc3b362d71d4799f5b237a274336fc8_9550_512x512_fill_lanczos_center_3.png</url>
+      <title>Final Degree Project</title>
+      <link>https://marcoslupion.github.io/tag/final-degree-project/</link>
+    </image>
+    
+    <item>
+      <title>Algoritmo de reconocimiento de actividades en un ambiente inteligente</title>
+      <link>https://marcoslupion.github.io/publication/complemento/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://marcoslupion.github.io/publication/complemento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implantación de un ambiente inteligente</title>
+      <link>https://marcoslupion.github.io/publication/tfg/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://marcoslupion.github.io/publication/tfg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
