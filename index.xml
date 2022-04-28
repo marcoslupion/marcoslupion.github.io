@@ -5,7 +5,7 @@
     <link>https://marcoslupion.github.io/</link>
       <atom:link href="https://marcoslupion.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Marcos Lupión</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Marcos Lupión Lorente</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Marcos Lupión Lorente</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://marcoslupion.github.io/media/icon_huddc3b362d71d4799f5b237a274336fc8_9550_512x512_fill_lanczos_center_3.png</url>
       <title>Marcos Lupión</title>
@@ -30,6 +30,14 @@
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Using a Multi-GPU node to accelerate the training of Pix2Pix neural networks</title>
+      <link>https://marcoslupion.github.io/publication/jos/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://marcoslupion.github.io/publication/jos/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -200,15 +208,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+   Three 
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
