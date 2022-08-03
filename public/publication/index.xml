@@ -5,7 +5,7 @@
     <link>https://marcoslupion.github.io/publication/</link>
       <atom:link href="https://marcoslupion.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Marcos Lupión Lorente</copyright><lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Marcos Lupión Lorente</copyright><lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://marcoslupion.github.io/media/icon_huddc3b362d71d4799f5b237a274336fc8_9550_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,10 +13,74 @@
     </image>
     
     <item>
+      <title>On the use of teaching-learning based optimization to train neural networks.</title>
+      <link>https://marcoslupion.github.io/publication/9_europt22/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://marcoslupion.github.io/publication/9_europt22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training large convolutional neural networks through population-based meta-heuristics.</title>
+      <link>https://marcoslupion.github.io/publication/7_ola22/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://marcoslupion.github.io/publication/7_ola22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Epilepsy seizure detection using low-cost IoT devices and a federated machine learning algorithm. </title>
+      <link>https://marcoslupion.github.io/publication/8_isami22/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://marcoslupion.github.io/publication/8_isami22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On optimizing the structure of neural networks through a compact codification of their architecture</title>
+      <link>https://marcoslupion.github.io/publication/6_mic22/</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://marcoslupion.github.io/publication/6_mic22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On analyzing a parallel multi-GPU framework for the architecture optimization of neural networks.</title>
+      <link>https://marcoslupion.github.io/publication/5_cmmse22/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://marcoslupion.github.io/publication/5_cmmse22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the limits of Conditional Generative Adversarial Neural Networks to reconstruct the identification of inhabitants from IoT low-resolution thermal sensors</title>
+      <link>https://marcoslupion.github.io/publication/eswa/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://marcoslupion.github.io/publication/eswa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Using a Multi-GPU node to accelerate the training of Pix2Pix neural networks</title>
       <link>https://marcoslupion.github.io/publication/jos/</link>
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://marcoslupion.github.io/publication/jos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sistema distribuido de reconocimiento de actividades en tiempo real, DOLARS</title>
+      <link>https://marcoslupion.github.io/publication/2_sarteco21/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://marcoslupion.github.io/publication/2_sarteco21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Pix2Pix training using a multi-gpu node</title>
+      <link>https://marcoslupion.github.io/publication/3_cmmse21/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://marcoslupion.github.io/publication/3_cmmse21/</guid>
       <description></description>
     </item>
     
@@ -30,9 +94,17 @@
     
     <item>
       <title>Deployment of an IoT Platform for Activity Recognition at the UAL’s Smart Home</title>
-      <link>https://marcoslupion.github.io/publication/isami/</link>
+      <link>https://marcoslupion.github.io/publication/1_isami20/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://marcoslupion.github.io/publication/isami/</guid>
+      <guid>https://marcoslupion.github.io/publication/1_isami20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating frontal body-landmark from thermal sensors using Residual Neural Networks</title>
+      <link>https://marcoslupion.github.io/publication/4_iwbbio22/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://marcoslupion.github.io/publication/4_iwbbio22/</guid>
       <description></description>
     </item>
     

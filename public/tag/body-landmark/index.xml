@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>body landmark | Marcos Lupión</title>
+    <link>https://marcoslupion.github.io/tag/body-landmark/</link>
+      <atom:link href="https://marcoslupion.github.io/tag/body-landmark/index.xml" rel="self" type="application/rss+xml" />
+    <description>body landmark</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Marcos Lupión Lorente</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marcoslupion.github.io/media/icon_huddc3b362d71d4799f5b237a274336fc8_9550_512x512_fill_lanczos_center_3.png</url>
+      <title>body landmark</title>
+      <link>https://marcoslupion.github.io/tag/body-landmark/</link>
+    </image>
+    
+    <item>
+      <title>Estimating frontal body-landmark from thermal sensors using Residual Neural Networks</title>
+      <link>https://marcoslupion.github.io/publication/4_iwbbio22/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://marcoslupion.github.io/publication/4_iwbbio22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
